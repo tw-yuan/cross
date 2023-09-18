@@ -1,0 +1,27 @@
+{
+  "name": "cross-discord-bot",
+  "version": "1.0.0",
+  "description": "特殊選材交叉查榜系統",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw-yuan/cross.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "cross"
+  ],
+  "author": "Yuan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tw-yuan/cross/issues"
+  },
+  "homepage": "https://github.com/tw-yuan/cross#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
